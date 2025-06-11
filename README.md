@@ -1,2 +1,1 @@
-# self_preservation_adler
-Code and methodology for my experiments on AI self-preservation
+See my code in `self_preservation_notebook.ipynb`. For more methodology details, see `methodology_details.md`. For raw prompts, see `self_preservation_prompts.jsonl`. For results, see `results.zip`, which includes a compiled file from the multiple different tests, as well as individual test files.
